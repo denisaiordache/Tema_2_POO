@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/denys/Tema_2_POO/Nr_Natural_Mare.h
+Vector.h
+C:/Users/denys/Tema_2_POO/Vector.h
+iostream
+-
+
+C:/Users/denys/Tema_2_POO/Numar_Fibonacci_mare.cpp
+Numar_Fibonacci_mare.h
+C:/Users/denys/Tema_2_POO/Numar_Fibonacci_mare.h
+
+C:/Users/denys/Tema_2_POO/Numar_Fibonacci_mare.h
+Nr_Natural_Mare.h
+C:/Users/denys/Tema_2_POO/Nr_Natural_Mare.h
+iostream
+-
+
+C:/Users/denys/Tema_2_POO/Vector.cpp
+Vector.h
+C:/Users/denys/Tema_2_POO/Vector.h
+
+C:/Users/denys/Tema_2_POO/Vector.h
+vector
+-
+iostream
+-
+
+C:/Users/denys/Tema_2_POO/main.cpp
+iostream
+-
+Vector.h
+C:/Users/denys/Tema_2_POO/Vector.h
+Nr_Natural_Mare.h
+C:/Users/denys/Tema_2_POO/Nr_Natural_Mare.h
+Numar_Fibonacci_mare.h
+C:/Users/denys/Tema_2_POO/Numar_Fibonacci_mare.h
+
